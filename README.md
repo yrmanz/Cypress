@@ -1,6 +1,5 @@
 # Cypress Test
-[![N|Solid](https://www.valentins.de/onlineshop/images/products/650/25192_x5.jpg )](https://nodesource.com/products/nsolid)
-
+[![N|Solid](https://shortstatusquotes.com/wp-content/uploads/God-Status-Quotes.jpg)]
 ## Test to Login and add/delete the card on the Retrospective Board
 ## prerequisite - Cypress and visual Studio Code installed 
 
